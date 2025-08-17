@@ -5,50 +5,34 @@
       {
         "id": 1,
         "title": "Tourist Visa",
-        "description": "For travelers visiting for leisure, vacations, or short trips.",
+        "description": "A Tourist Visa is designed for travelers visiting for leisure or vacations. It allows participation in sightseeing tours, cultural visits, and recreational activities. Applicants must provide proof of accommodation and return travel. Temporary stays are permitted and financial stability must be shown. This visa ensures a hassle-free holiday experience for tourists.",
         "processingTime": "2 - 6 weeks",
         "price": "$50",
-        "image": "https://i.ibb.co.com/4Z6qSjtP/tourist-2.jpg"
+        "image": "https://i.postimg.cc/50kPrDXh/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand.jpg"
       },
       {
         "id": 2,
         "title": "Business Visit Visa",
-        "description": "For professionals attending business meetings, events, or conferences.",
+        "description": "Business Visit Visa is intended for professionals attending meetings, conferences, or corporate events abroad. Applicants must provide proof of business engagement or invitation letters. It allows networking, attending workshops, and company visits. Short-term work-related activities are permitted. This visa ensures smooth entry for international business travelers.",
         "processingTime": "1 - 4 weeks",
         "price": "$80",
-        "image": "https://i.ibb.co.com/s9HGC8cp/tourist-6.jpg"
+        "image": "https://i.postimg.cc/RZR2RsTB/781cfa1f542ee24071dc5039d4d3ea6f.jpg"
       },
       {
         "id": 3,
         "title": "Medical Visa",
-        "description": "For individuals traveling abroad for medical treatment.",
+        "description": "Medical Visa is for individuals seeking healthcare or treatment abroad. It covers surgeries, consultations, and therapies in recognized hospitals. Applicants must submit medical reports and confirmation from the healthcare provider. Family members may accompany the patient. This visa facilitates timely medical attention for travelers.",
         "processingTime": "2 - 5 weeks",
         "price": "$100",
-        "image": "https://i.ibb.co.com/Fkv4dKGq/tourist-4.jpg"
+        "image": "https://i.postimg.cc/NfVxw1fH/52382debaee74ed98250af1cfea4210a.jpg"
       },
       {
         "id": 4,
-        "title": "Transit Visa",
-        "description": "For passengers transiting through a country to reach another destination.",
-        "processingTime": "3 - 7 days",
-        "price": "$40",
-        "image": "https://i.ibb.co.com/5xfTjkCx/tourist-5.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Pilgrimage Visa",
-        "description": "Special visa for traveling on religious pilgrimages.",
-        "processingTime": "1 - 3 weeks",
-        "price": "$60",
-        "image": "https://i.ibb.co.com/m5wVcHGn/tourist-3.jpg"
-      },
-      {
-        "id": 6,
         "title": "Event Visa",
-        "description": "For attending concerts, cultural festivals, or sports events.",
+        "description": "Event Visa allows attendance at concerts, sports events, cultural festivals, and exhibitions abroad. Applicants must provide proof of event registration or invitation. Short-term stays are permitted for participants or observers. This visa ensures seamless travel for international events. It is ideal for travelers seeking entertainment or networking opportunities.",
         "processingTime": "2 - 4 weeks",
         "price": "$75",
-        "image": "https://i.ibb.co.com/bgwMd9CC/tourist-1.jpg"
+        "image": "https://i.postimg.cc/FHzs0LjD/43eda55fa6c0336a30f2ea3dac3998bc.jpg"
       }
     ]
   },
@@ -56,52 +40,36 @@
     "category": "Education",
     "services": [
       {
-        "id": 7,
+        "id": 5,
         "title": "Student Visa",
-        "description": "For students pursuing academic programs abroad.",
+        "description": "Student Visa is for individuals pursuing academic programs abroad. It covers universities, colleges, and diploma courses. Applicants must provide acceptance letters and financial proof. The visa allows full-time study and part-time work if permitted. Family members may join depending on the country regulations.",
         "processingTime": "4 - 12 weeks",
         "price": "$120",
-        "image": "https://i.ibb.co.com/jkWMQCzZ/student-visa-4.jpg"
+        "image": "https://i.postimg.cc/W4RLtFSD/b4980ab48aebf52688043ef05f04c463.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Exchange Program Visa",
+        "description": "Exchange Program Visa is for students participating in semester abroad or exchange programs. It ensures temporary residence for academic purposes. Applicants must submit enrollment confirmation from both home and host institutions. Short-term work opportunities may be allowed. This visa fosters cultural and educational exchange.",
+        "processingTime": "3 - 8 weeks",
+        "price": "$100",
+        "image": "https://i.postimg.cc/SQgBCtDb/47073e9002b67c3f1be9f0b49c46bbf6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Language Study Visa",
+        "description": "Language Study Visa is for students attending short-term language courses abroad. It covers language schools and intensive programs. Applicants must provide enrollment proof and financial documents. The visa permits temporary stay and cultural immersion. It is ideal for improving language skills in a foreign environment.",
+        "processingTime": "2 - 6 weeks",
+        "price": "$90",
+        "image": "https://i.postimg.cc/q7QLSWtk/323b4ae39edb18d6f4150f5ce30f5ff1.jpg"
       },
       {
         "id": 8,
-        "title": "Exchange Program Visa",
-        "description": "For students participating in exchange or semester abroad programs.",
-        "processingTime": "3 - 8 weeks",
-        "price": "$100",
-        "image": "https://i.ibb.co.com/jvGYSzs9/student-visa-3.jpg"
-      },
-      {
-        "id": 9,
-        "title": "Language Study Visa",
-        "description": "For students attending short-term language learning programs.",
-        "processingTime": "2 - 6 weeks",
-        "price": "$90",
-        "image": "https://i.ibb.co.com/YFxf5KDb/student-visa-2.jpg"
-      },
-      {
-        "id": 10,
         "title": "Research Visa",
-        "description": "For scholars and researchers conducting studies abroad.",
+        "description": "Research Visa is for scholars, scientists, and researchers conducting studies abroad. Applicants must submit project proposals and host institution invitation. It allows participation in research, conferences, and academic collaborations. Short-term work may be permitted. This visa supports academic and scientific advancement internationally.",
         "processingTime": "3 - 10 weeks",
         "price": "$150",
         "image": "https://i.ibb.co.com/1GHVcHHj/student-visa-1.jpg"
-      },
-      {
-        "id": 11,
-        "title": "Internship Visa",
-        "description": "For students or graduates doing internships abroad.",
-        "processingTime": "2 - 6 weeks",
-        "price": "$110",
-        "image": "https://i.ibb.co.com/d4SpkB86/student-visa-6.jpg"
-      },
-      {
-        "id": 12,
-        "title": "Scholarship Visa",
-        "description": "For students funded by scholarships to study abroad.",
-        "processingTime": "3 - 9 weeks",
-        "price": "$100",
-        "image": "https://i.ibb.co.com/mFbSVhZh/student-visa-5.jpg"
       }
     ]
   },
@@ -109,52 +77,36 @@
     "category": "Employment",
     "services": [
       {
-        "id": 13,
+        "id": 9,
         "title": "Work Visa",
-        "description": "For individuals employed by foreign companies.",
+        "description": "Work Visa is for individuals employed by foreign companies. It allows legal employment, salary reception, and tax compliance abroad. Applicants must provide job contracts and sponsorship letters. Temporary or long-term stays are permitted depending on employment duration. This visa facilitates international career opportunities.",
         "processingTime": "2 - 4 months",
         "price": "$200",
         "image": "https://i.ibb.co.com/LXPm7N1b/Employment-3.jpg"
       },
       {
-        "id": 14,
+        "id": 10,
         "title": "Skilled Worker Visa",
-        "description": "For highly skilled professionals migrating for jobs.",
+        "description": "Skilled Worker Visa is for highly skilled professionals migrating for jobs. Applicants must demonstrate professional qualifications and experience. The visa allows long-term employment and residence. Family accompaniment may be permitted. It is ideal for engineers, doctors, IT specialists, and other skilled professionals seeking opportunities abroad.",
         "processingTime": "3 - 6 months",
         "price": "$250",
         "image": "https://i.ibb.co.com/zYZ1scH/Employment-5.jpg"
       },
       {
-        "id": 15,
+        "id": 11,
         "title": "Seasonal Worker Visa",
-        "description": "For workers employed in seasonal industries like farming.",
+        "description": "Seasonal Worker Visa is for individuals employed in seasonal industries like agriculture, tourism, or hospitality. Applicants must have employment contracts for limited periods. It allows temporary residence and work authorization. Proper documentation of employer and accommodation is required. This visa supports seasonal labor mobility internationally.",
         "processingTime": "4 - 8 weeks",
         "price": "$180",
         "image": "https://i.ibb.co.com/sJygsmfd/Employment-1.jpg"
       },
       {
-        "id": 16,
+        "id": 12,
         "title": "Freelancer Visa",
-        "description": "For independent workers offering remote services abroad.",
+        "description": "Freelancer Visa is for independent professionals offering remote services abroad. Applicants must provide proof of contracts, portfolio, and financial stability. The visa allows flexible work without local employment sponsorship. Temporary residence is permitted depending on the host country. It is ideal for digital nomads and remote workers.",
         "processingTime": "6 - 10 weeks",
         "price": "$150",
         "image": "https://i.ibb.co.com/rK8tX0kW/Employment-2.jpg"
-      },
-      {
-        "id": 17,
-        "title": "Intra-Company Transfer Visa",
-        "description": "For employees transferring within multinational companies.",
-        "processingTime": "2 - 4 months",
-        "price": "$220",
-        "image": "https://i.ibb.co.com/sJz4HtR2/Employment-4.jpg"
-      },
-      {
-        "id": 18,
-        "title": "Startup Visa",
-        "description": "For entrepreneurs launching businesses in foreign countries.",
-        "processingTime": "3 - 6 months",
-        "price": "$300",
-        "image": "https://i.ibb.co.com/bgbHHphS/Employment-6.jpg"
       }
     ]
   },
@@ -162,52 +114,36 @@
     "category": "Family & Settlement",
     "services": [
       {
-        "id": 19,
+        "id": 13,
         "title": "Spouse Visa",
-        "description": "For spouses joining their partners abroad.",
+        "description": "Spouse Visa is for individuals joining their partners living abroad. Applicants must provide marriage certificates and sponsor proof. It allows temporary or permanent residence depending on the country. Family reunification and legal stay are permitted. This visa strengthens family unity internationally.",
         "processingTime": "2 - 6 months",
         "price": "$150",
         "image": "https://i.ibb.co.com/932BGzVd/Family-6.jpg"
       },
       {
-        "id": 20,
+        "id": 14,
         "title": "Dependent Visa",
-        "description": "For family members dependent on primary visa holders.",
+        "description": "Dependent Visa is for family members dependent on primary visa holders. It covers spouses, children, or parents. Applicants must provide proof of relationship and financial support. Temporary or long-term stay is allowed. This visa ensures that family members can accompany or join the principal applicant abroad.",
         "processingTime": "2 - 5 months",
         "price": "$130",
         "image": "https://i.ibb.co.com/s9pg7SRg/Family-2.jpg"
       },
       {
-        "id": 21,
+        "id": 15,
         "title": "Parent Visa",
-        "description": "For parents joining their children abroad.",
+        "description": "Parent Visa is for parents joining their children living abroad. Applicants must provide proof of relationship and financial support. The visa allows temporary or long-term stay. Accommodation and health insurance documents may be required. This visa promotes family reunification and care for elderly parents internationally.",
         "processingTime": "3 - 6 months",
         "price": "$180",
         "image": "https://i.ibb.co.com/bM6Vgv7B/Family-4.jpg"
       },
       {
-        "id": 22,
+        "id": 16,
         "title": "Family Reunion Visa",
-        "description": "For reuniting families separated across countries.",
+        "description": "Family Reunion Visa allows families separated across countries to reunite. Applicants must provide proof of relationship and sponsor support. The visa allows temporary or permanent residence. It ensures smooth immigration for family members. Ideal for parents, children, and spouses seeking to live together abroad.",
         "processingTime": "2 - 6 months",
         "price": "$170",
         "image": "https://i.ibb.co.com/qY5PqLFC/Family-1.jpg"
-      },
-      {
-        "id": 23,
-        "title": "Child Visa",
-        "description": "For children traveling with or joining parents abroad.",
-        "processingTime": "1 - 3 months",
-        "price": "$140",
-        "image": "https://i.ibb.co.com/xt9XnH4v/Family-5.jpg"
-      },
-      {
-        "id": 24,
-        "title": "Guardian Visa",
-        "description": "For guardians accompanying minors studying abroad.",
-        "processingTime": "1 - 3 months",
-        "price": "$160",
-        "image": "https://i.ibb.co.com/tTgZSs52/Family-3.jpg"
       }
     ]
   },
@@ -215,52 +151,36 @@
     "category": "Permanent Residency",
     "services": [
       {
-        "id": 25,
-        "title": "Canada PR",
-        "description": "For individuals applying for permanent residency in Canada.",
+        "id": 17,
+        "title": "Canada Visa",
+        "description": "Canada PR is for individuals applying for permanent residency in Canada. Applicants must meet eligibility criteria, including skills, work experience, and language proficiency. It allows permanent stay, work, and access to social benefits. Family members may also be included in the application. This visa facilitates long-term settlement in Canada.",
         "processingTime": "6 - 12 months",
         "price": "$500",
-        "image": "https://i.ibb.co.com/V0cqCPvQ/Permanent-6.jpg"
+        "image": "https://i.postimg.cc/4Ngnryp1/0a88651053338b6e18e13593c3cffc1d.jpg"
       },
       {
-        "id": 26,
-        "title": "Australia PR",
-        "description": "For individuals applying for permanent residency in Australia.",
+        "id": 18,
+        "title": "Australia Visa",
+        "description": "Australia PR is for individuals seeking permanent residency in Australia. Applicants must provide evidence of qualifications, employment, and English proficiency. It permits permanent residence, work, and education benefits. Family sponsorship may be included. This visa enables long-term settlement and career growth in Australia.",
         "processingTime": "6 - 12 months",
         "price": "$450",
-        "image": "https://i.ibb.co.com/ZpXLpJyH/Permanent-5.jpg"
+        "image": "https://i.postimg.cc/QMyHPqqB/4651e98a222cee169a7e4aab7fff0fe7.jpg"
       },
       {
-        "id": 27,
+        "id": 19,
         "title": "UK Settlement Visa",
-        "description": "For long-term settlement in the United Kingdom.",
+        "description": "UK Settlement Visa is for long-term residence in the United Kingdom. Applicants must meet eligibility requirements, including work or family ties. It allows permanent stay, work, and access to public services. Family members may be included. This visa ensures legal long-term settlement in the UK.",
         "processingTime": "4 - 8 months",
         "price": "$400",
         "image": "https://i.ibb.co.com/39yc487N/Permanent-1.jpg"
       },
       {
-        "id": 28,
+        "id": 20,
         "title": "USA Green Card",
-        "description": "For immigrants applying for permanent residency in the USA.",
+        "description": "USA Green Card is for immigrants seeking permanent residency in the United States. Applicants must meet eligibility criteria, including family, employment, or investment categories. It allows work, education, and access to social benefits. Family members may be included. This visa is essential for long-term life and career in the USA.",
         "processingTime": "8 - 14 months",
         "price": "$550",
         "image": "https://i.ibb.co.com/qMLzZf5J/Permanent-2.jpg"
-      },
-      {
-        "id": 29,
-        "title": "Germany PR",
-        "description": "For long-term residence rights in Germany.",
-        "processingTime": "5 - 10 months",
-        "price": "$420",
-        "image": "https://i.ibb.co.com/wNRt4R6d/Permanent-4.jpg"
-      },
-      {
-        "id": 30,
-        "title": "New Zealand PR",
-        "description": "For individuals seeking permanent residency in New Zealand.",
-        "processingTime": "6 - 12 months",
-        "price": "$480",
-        "image": "https://i.ibb.co.com/N6nfGS0K/Permanent-3.jpg"
       }
     ]
   },
@@ -268,52 +188,36 @@
     "category": "Special Visas",
     "services": [
       {
-        "id": 31,
+        "id": 21,
         "title": "Investor Visa",
-        "description": "For individuals investing in businesses abroad.",
+        "description": "Investor Visa is for individuals investing in businesses or startups abroad. Applicants must provide investment proof and business plans. It allows temporary or permanent residence depending on country regulations. Family members may be included. This visa promotes international entrepreneurship and economic growth.",
         "processingTime": "3 - 6 months",
         "price": "$600",
-        "image": "https://i.ibb.co.com/SDdJ4x0Z/Special-6.jpg"
+        "image": "https://i.postimg.cc/fRbdrkhr/3f1ecb5697e58e70364cab5683c0fc58.jpg"
       },
       {
-        "id": 32,
+        "id": 22,
         "title": "Digital Nomad Visa",
-        "description": "For remote workers living and working abroad.",
+        "description": "Digital Nomad Visa is for remote professionals living and working abroad. Applicants must provide proof of employment or freelancing contracts. It allows temporary residence and tax compliance. Travel flexibility and work authorization are provided. Ideal for digital nomads seeking international experiences.",
         "processingTime": "4 - 8 weeks",
         "price": "$200",
         "image": "https://i.ibb.co.com/Gf4F3syw/Special-1.jpg"
       },
       {
-        "id": 33,
-        "title": "Cultural Exchange Visa",
-        "description": "For artists, performers, and cultural exchange participants.",
-        "processingTime": "2 - 6 weeks",
-        "price": "$150",
-        "image": "https://i.ibb.co.com/V0jv5rcg/Special-3.jpg"
-      },
-      {
-        "id": 34,
+        "id": 23,
         "title": "Volunteer Visa",
-        "description": "For individuals volunteering in international projects.",
+        "description": "Volunteer Visa is for individuals participating in international volunteer programs. Applicants must provide organization invitation and project details. It allows temporary stay for community service or humanitarian work. Health insurance and accommodation proof may be required. This visa promotes cross-cultural engagement and social contribution.",
         "processingTime": "2 - 8 weeks",
         "price": "$100",
-        "image": "https://i.ibb.co.com/pYMhWhS/Special-5.jpg"
+        "image": "https://i.postimg.cc/VLYjQK8v/765a788f76a4ae146d840c51380ad659.jpg"
       },
       {
-        "id": 35,
+        "id": 24,
         "title": "Retirement Visa",
-        "description": "For retirees planning to live abroad long-term.",
+        "description": "Retirement Visa is for retirees planning to live abroad long-term. Applicants must show proof of income or savings to support themselves. It allows extended residence and access to local services. Health coverage may be required. This visa enables a peaceful and secure retirement in a foreign country.",
         "processingTime": "2 - 5 months",
         "price": "$250",
-        "image": "https://i.ibb.co.com/8D78DQV1/Special-4.jpg"
-      },
-      {
-        "id": 36,
-        "title": "Diplomatic Visa",
-        "description": "For diplomats and government officials on official missions.",
-        "processingTime": "2 - 6 weeks",
-        "price": "Free",
-        "image": "https://i.ibb.co.com/35qPCqM5/Special-2.jpg"
+        "image": "https://i.postimg.cc/dt8SnH90/7d494a0e1c35c56b9bce39cd5db07e77.jpg"
       }
     ]
   }
