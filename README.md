@@ -39,6 +39,7 @@ A modern, responsive, and interactive web application for managing visa services
 
 ## 📂 Project Structure
 
+```
 mostakim69-job-task-02-visa-service/
 ├── README.md
 ├── eslint.config.js
@@ -46,34 +47,32 @@ mostakim69-job-task-02-visa-service/
 ├── package.json
 ├── vite.config.js
 ├── public/
-│ └── services.json
+│   └── services.json
 └── src/
-├── App.css
-├── index.css
-├── main.jsx
-├── assets/
-│ └── images/
-├── components/
-│ ├── About.jsx
-│ ├── Footer.jsx
-│ ├── Hero.jsx
-│ ├── Navbar.jsx
-│ ├── Testimonials.jsx
-│ ├── VisaTypes.jsx
-│ └── WhyUS.jsx
-├── layouts/
-│ └── RootLayout.jsx
-├── pages/
-│ ├── Contact.jsx
-│ ├── Home.jsx
-│ ├── MyApplicationPage.jsx
-│ ├── ServiceDetails.jsx
-│ └── VisaServicePage.jsx
-└── router/
-└── router.jsx
-
-Copy
-Edit
+    ├── App.css
+    ├── index.css
+    ├── main.jsx
+    ├── assets/
+    │   └── images/
+    ├── components/
+    │   ├── About.jsx
+    │   ├── Footer.jsx
+    │   ├── Hero.jsx
+    │   ├── Navbar.jsx
+    │   ├── Testimonials.jsx
+    │   ├── VisaTypes.jsx
+    │   └── WhyUS.jsx
+    ├── layouts/
+    │   └── RootLayout.jsx
+    ├── pages/
+    │   ├── Contact.jsx
+    │   ├── Home.jsx
+    │   ├── MyApplicationPage.jsx
+    │   ├── ServiceDetails.jsx
+    │   └── VisaServicePage.jsx
+    └── router/
+        └── router.jsx
+```
 
 
 ## ✨ Features
