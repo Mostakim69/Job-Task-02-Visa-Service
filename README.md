@@ -8,10 +8,10 @@
 A modern, responsive, and interactive web application for managing visa services. Users can browse visa types, view detailed service information, submit applications, and contact the service provider seamlessly.
 
 ## 🌐 Live Demo
-[Visa Navigator Live](https://visa-navigator-by-mahmud.netlify.app/)
+[Visa Navigator Live](https://visa-service-portal.web.app/)
 
-<h1>Project Name: Visa Navigator - Frontend</h1>
-<h2>Link: <a href="https://visa-navigator-by-mahmud.netlify.app/">https://visa-navigator-by-mahmud.netlify.app/</a></h2>
+<h1>Project Name: Visa Navigator </h1>
+<h2>Link: <a href="https://visa-service-portal.web.app/">https://visa-service-portal.web.app/</a></h2>
 
 <h2>Description:</h2>
 
