@@ -4,6 +4,7 @@ import VisaServicePage from "../Pages/VisaServicePage";
 import MyApplicationPage from "../Pages/MyApplicationPage";
 import RootLaout from "../Layouts/RootLaout";
 import ServiceDetails from "../Pages/ServiceDetails";
+import About from "../Components/About";
 
 export const router = createBrowserRouter([
   {
@@ -13,6 +14,10 @@ export const router = createBrowserRouter([
       {
         index: true,
         Component: Home
+      },
+      {
+        path: "/about",
+        Component: About
       },
       {
         path: "/services",

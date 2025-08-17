@@ -8,10 +8,24 @@ const Navbar = () => {
 
   const navLinks = [
     { name: "Home", path: "/" },
+    { name: "About", path: "/about" }, // Smooth scroll link
     { name: "Visa Services", path: "/services" },
     { name: "My Application", path: "/my-application" },
-    { name: "Contact", path: "/" },
+    { name: "Contact", path: "/Contact" },
   ];
+
+  // Smooth scroll handler for in-page links
+  const handleScroll = (e, path) => {
+    if (path.startsWith("#")) {
+      e.preventDefault();
+      const targetId = path.replace("#", "");
+      const targetElement = document.getElementById(targetId);
+      if (targetElement) {
+        targetElement.scrollIntoView({ behavior: "smooth" });
+      }
+      setIsOpen(false); // Close mobile menu
+    }
+  };
 
   return (
     <nav className="bg-gray-800 text-white shadow-md sticky top-0 z-50">
@@ -28,6 +42,7 @@ const Navbar = () => {
             <li key={index}>
               <a
                 href={link.path}
+                onClick={(e) => handleScroll(e, link.path)}
                 className="hover:text-yellow-300 transition-colors"
               >
                 {link.name}
@@ -62,8 +77,8 @@ const Navbar = () => {
             <li key={index}>
               <a
                 href={link.path}
+                onClick={(e) => handleScroll(e, link.path)}
                 className="block hover:text-yellow-300 transition-colors"
-                onClick={() => setIsOpen(false)}
               >
                 {link.name}
               </a>
