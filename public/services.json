@@ -1,0 +1,320 @@
+[
+  {
+    "category": "Tourism & Travel",
+    "services": [
+      {
+        "id": 1,
+        "title": "Tourist Visa",
+        "description": "For travelers visiting for leisure, vacations, or short trips.",
+        "processingTime": "2 - 6 weeks",
+        "price": "$50",
+        "image": "https://i.ibb.co.com/4Z6qSjtP/tourist-2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Business Visit Visa",
+        "description": "For professionals attending business meetings, events, or conferences.",
+        "processingTime": "1 - 4 weeks",
+        "price": "$80",
+        "image": "https://i.ibb.co.com/s9HGC8cp/tourist-6.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Medical Visa",
+        "description": "For individuals traveling abroad for medical treatment.",
+        "processingTime": "2 - 5 weeks",
+        "price": "$100",
+        "image": "https://i.ibb.co.com/Fkv4dKGq/tourist-4.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Transit Visa",
+        "description": "For passengers transiting through a country to reach another destination.",
+        "processingTime": "3 - 7 days",
+        "price": "$40",
+        "image": "https://i.ibb.co.com/5xfTjkCx/tourist-5.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Pilgrimage Visa",
+        "description": "Special visa for traveling on religious pilgrimages.",
+        "processingTime": "1 - 3 weeks",
+        "price": "$60",
+        "image": "https://i.ibb.co.com/m5wVcHGn/tourist-3.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Event Visa",
+        "description": "For attending concerts, cultural festivals, or sports events.",
+        "processingTime": "2 - 4 weeks",
+        "price": "$75",
+        "image": "https://i.ibb.co.com/bgwMd9CC/tourist-1.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Education",
+    "services": [
+      {
+        "id": 7,
+        "title": "Student Visa",
+        "description": "For students pursuing academic programs abroad.",
+        "processingTime": "4 - 12 weeks",
+        "price": "$120",
+        "image": "https://i.ibb.co.com/jkWMQCzZ/student-visa-4.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Exchange Program Visa",
+        "description": "For students participating in exchange or semester abroad programs.",
+        "processingTime": "3 - 8 weeks",
+        "price": "$100",
+        "image": "https://i.ibb.co.com/jvGYSzs9/student-visa-3.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Language Study Visa",
+        "description": "For students attending short-term language learning programs.",
+        "processingTime": "2 - 6 weeks",
+        "price": "$90",
+        "image": "https://i.ibb.co.com/YFxf5KDb/student-visa-2.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Research Visa",
+        "description": "For scholars and researchers conducting studies abroad.",
+        "processingTime": "3 - 10 weeks",
+        "price": "$150",
+        "image": "https://i.ibb.co.com/1GHVcHHj/student-visa-1.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Internship Visa",
+        "description": "For students or graduates doing internships abroad.",
+        "processingTime": "2 - 6 weeks",
+        "price": "$110",
+        "image": "https://i.ibb.co.com/d4SpkB86/student-visa-6.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Scholarship Visa",
+        "description": "For students funded by scholarships to study abroad.",
+        "processingTime": "3 - 9 weeks",
+        "price": "$100",
+        "image": "https://i.ibb.co.com/mFbSVhZh/student-visa-5.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Employment",
+    "services": [
+      {
+        "id": 13,
+        "title": "Work Visa",
+        "description": "For individuals employed by foreign companies.",
+        "processingTime": "2 - 4 months",
+        "price": "$200",
+        "image": "https://i.ibb.co.com/LXPm7N1b/Employment-3.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Skilled Worker Visa",
+        "description": "For highly skilled professionals migrating for jobs.",
+        "processingTime": "3 - 6 months",
+        "price": "$250",
+        "image": "https://i.ibb.co.com/zYZ1scH/Employment-5.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Seasonal Worker Visa",
+        "description": "For workers employed in seasonal industries like farming.",
+        "processingTime": "4 - 8 weeks",
+        "price": "$180",
+        "image": "https://i.ibb.co.com/sJygsmfd/Employment-1.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Freelancer Visa",
+        "description": "For independent workers offering remote services abroad.",
+        "processingTime": "6 - 10 weeks",
+        "price": "$150",
+        "image": "https://i.ibb.co.com/rK8tX0kW/Employment-2.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Intra-Company Transfer Visa",
+        "description": "For employees transferring within multinational companies.",
+        "processingTime": "2 - 4 months",
+        "price": "$220",
+        "image": "https://i.ibb.co.com/sJz4HtR2/Employment-4.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Startup Visa",
+        "description": "For entrepreneurs launching businesses in foreign countries.",
+        "processingTime": "3 - 6 months",
+        "price": "$300",
+        "image": "https://i.ibb.co.com/bgbHHphS/Employment-6.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Family & Settlement",
+    "services": [
+      {
+        "id": 19,
+        "title": "Spouse Visa",
+        "description": "For spouses joining their partners abroad.",
+        "processingTime": "2 - 6 months",
+        "price": "$150",
+        "image": "https://i.ibb.co.com/932BGzVd/Family-6.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Dependent Visa",
+        "description": "For family members dependent on primary visa holders.",
+        "processingTime": "2 - 5 months",
+        "price": "$130",
+        "image": "https://i.ibb.co.com/s9pg7SRg/Family-2.jpg"
+      },
+      {
+        "id": 21,
+        "title": "Parent Visa",
+        "description": "For parents joining their children abroad.",
+        "processingTime": "3 - 6 months",
+        "price": "$180",
+        "image": "https://i.ibb.co.com/bM6Vgv7B/Family-4.jpg"
+      },
+      {
+        "id": 22,
+        "title": "Family Reunion Visa",
+        "description": "For reuniting families separated across countries.",
+        "processingTime": "2 - 6 months",
+        "price": "$170",
+        "image": "https://i.ibb.co.com/qY5PqLFC/Family-1.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Child Visa",
+        "description": "For children traveling with or joining parents abroad.",
+        "processingTime": "1 - 3 months",
+        "price": "$140",
+        "image": "https://i.ibb.co.com/xt9XnH4v/Family-5.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Guardian Visa",
+        "description": "For guardians accompanying minors studying abroad.",
+        "processingTime": "1 - 3 months",
+        "price": "$160",
+        "image": "https://i.ibb.co.com/tTgZSs52/Family-3.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Permanent Residency",
+    "services": [
+      {
+        "id": 25,
+        "title": "Canada PR",
+        "description": "For individuals applying for permanent residency in Canada.",
+        "processingTime": "6 - 12 months",
+        "price": "$500",
+        "image": "https://i.ibb.co.com/V0cqCPvQ/Permanent-6.jpg"
+      },
+      {
+        "id": 26,
+        "title": "Australia PR",
+        "description": "For individuals applying for permanent residency in Australia.",
+        "processingTime": "6 - 12 months",
+        "price": "$450",
+        "image": "https://i.ibb.co.com/ZpXLpJyH/Permanent-5.jpg"
+      },
+      {
+        "id": 27,
+        "title": "UK Settlement Visa",
+        "description": "For long-term settlement in the United Kingdom.",
+        "processingTime": "4 - 8 months",
+        "price": "$400",
+        "image": "https://i.ibb.co.com/39yc487N/Permanent-1.jpg"
+      },
+      {
+        "id": 28,
+        "title": "USA Green Card",
+        "description": "For immigrants applying for permanent residency in the USA.",
+        "processingTime": "8 - 14 months",
+        "price": "$550",
+        "image": "https://i.ibb.co.com/qMLzZf5J/Permanent-2.jpg"
+      },
+      {
+        "id": 29,
+        "title": "Germany PR",
+        "description": "For long-term residence rights in Germany.",
+        "processingTime": "5 - 10 months",
+        "price": "$420",
+        "image": "https://i.ibb.co.com/wNRt4R6d/Permanent-4.jpg"
+      },
+      {
+        "id": 30,
+        "title": "New Zealand PR",
+        "description": "For individuals seeking permanent residency in New Zealand.",
+        "processingTime": "6 - 12 months",
+        "price": "$480",
+        "image": "https://i.ibb.co.com/N6nfGS0K/Permanent-3.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Special Visas",
+    "services": [
+      {
+        "id": 31,
+        "title": "Investor Visa",
+        "description": "For individuals investing in businesses abroad.",
+        "processingTime": "3 - 6 months",
+        "price": "$600",
+        "image": "https://i.ibb.co.com/SDdJ4x0Z/Special-6.jpg"
+      },
+      {
+        "id": 32,
+        "title": "Digital Nomad Visa",
+        "description": "For remote workers living and working abroad.",
+        "processingTime": "4 - 8 weeks",
+        "price": "$200",
+        "image": "https://i.ibb.co.com/Gf4F3syw/Special-1.jpg"
+      },
+      {
+        "id": 33,
+        "title": "Cultural Exchange Visa",
+        "description": "For artists, performers, and cultural exchange participants.",
+        "processingTime": "2 - 6 weeks",
+        "price": "$150",
+        "image": "https://i.ibb.co.com/V0jv5rcg/Special-3.jpg"
+      },
+      {
+        "id": 34,
+        "title": "Volunteer Visa",
+        "description": "For individuals volunteering in international projects.",
+        "processingTime": "2 - 8 weeks",
+        "price": "$100",
+        "image": "https://i.ibb.co.com/pYMhWhS/Special-5.jpg"
+      },
+      {
+        "id": 35,
+        "title": "Retirement Visa",
+        "description": "For retirees planning to live abroad long-term.",
+        "processingTime": "2 - 5 months",
+        "price": "$250",
+        "image": "https://i.ibb.co.com/8D78DQV1/Special-4.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Diplomatic Visa",
+        "description": "For diplomats and government officials on official missions.",
+        "processingTime": "2 - 6 weeks",
+        "price": "Free",
+        "image": "https://i.ibb.co.com/35qPCqM5/Special-2.jpg"
+      }
+    ]
+  }
+]
