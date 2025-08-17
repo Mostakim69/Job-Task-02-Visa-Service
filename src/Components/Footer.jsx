@@ -1,41 +1,64 @@
-import React from "react";
-import { FacebookFilled, LinkedinFilled, GithubFilled } from "@ant-design/icons";
-import { Link } from "react-router";
+import React from 'react';
+import { Link } from 'react-router';
+import { FaFacebook, FaYoutube, FaInstagram, FaTwitter, FaGithub } from 'react-icons/fa';
 
 const Footer = () => {
-    return (
-        <footer className="bg-gray-100 dark:bg-gray-900 text-gray-700 dark:text-gray-300 py-6 pt-10">
-            <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
-                {/* Left: Logo/Name */}
-                <h2 className="text-lg font-bold text-blue-600 mb-4 md:mb-0">Visa Portal</h2>
+  const socialLinks = [
+    { name: 'GitHub', icon: <FaGithub size={24} />, url: 'https://github.com/Mostakim69' },
+    { name: 'Facebook', icon: <FaFacebook size={24} />, url: 'https://www.facebook.com/MostakimHosennnn' },
+    { name: 'Instagram', icon: <FaInstagram size={24} />, url: 'https://www.instagram.com/posterboy3369/#' },
+    { name: 'Twitter', icon: <FaTwitter size={24} />, url: 'https://x.com/mostakim14467' },
+    { name: 'YouTube', icon: <FaYoutube size={24} />, url: 'https://www.youtube.com/@PosterBoy3369' },
+  ];
 
-                {/* Center: Menu Links */}
-                <nav className="flex gap-6 mb-4 md:mb-0">
-                    <Link to="/" className="hover:text-blue-600">Home</Link>
-                    <Link to="/services" className="hover:text-blue-600">Services</Link>
-                    <Link to="/my-application" className="hover:text-blue-600">Application</Link>
-                </nav>
+  const links = [
+    { name: 'Home', path: '/' },
+    { name: 'Visa Services', path: '/services' },
+    { name: 'My Application', path: '/my-application' },
+    { name: 'About', path: '/about' },
+  ];
 
-                {/* Right: Social Links */}
-                <div className="flex gap-4 text-2xl">
-                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
-                        <FacebookFilled className="hover:text-blue-600" />
-                    </a>
-                    <a href="https://github.com" target="_blank" rel="noreferrer">
-                        <GithubFilled className="hover:text-blue-600" />
-                    </a>
-                    <a href="https://linkedin.com" target="_blank" rel="noreferrer">
-                        <LinkedinFilled className="hover:text-blue-600" />
-                    </a>
-                </div>
-            </div>
+  return (
+    <footer className="flex flex-col items-center justify-center bg-gray-900 text-gray-300 py-16 text-sm font-Outfit">
+      
+      {/* Navigation Links */}
+      <div className="flex flex-wrap justify-center gap-6">
+        {links.map((link) => (
+          <Link
+            key={link.name}
+            to={link.path}
+            className="hover:text-white transition-colors"
+          >
+            {link.name}
+          </Link>
+        ))}
+      </div>
 
-            {/* Bottom small text */}
-            <div className="text-center mt-6 text-sm text-gray-500 dark:text-gray-400">
-                © {new Date().getFullYear()} Visa Portal. All rights reserved.
-            </div>
-        </footer>
-    );
+      {/* Social Icons */}
+      <div className="flex gap-4 mt-6 text-gray-400">
+        {socialLinks.map((link) => (
+          <a
+            key={link.name}
+            href={link.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-white transition-all duration-300"
+          >
+            {link.icon}
+          </a>
+        ))}
+      </div>
+
+      {/* Copyright */}
+      <p className="mt-8 text-center text-gray-500">
+        © {new Date().getFullYear()}{' '}
+        <a href="/" className="hover:text-white">
+          Visa Navigator
+        </a>
+        . All rights reserved.
+      </p>
+    </footer>
+  );
 };
 
 export default Footer;
