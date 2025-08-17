@@ -4,6 +4,7 @@ import About from '../Components/About';
 import VisaTypes from '../Components/VisaTypes';
 import WhyUS from '../Components/WhyUS';
 import Testimonials from '../Components/Testimonials';
+import Contact from './Contact';
 
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
             <VisaTypes/>
             <WhyUS/>
             <Testimonials />
+            <Contact />
         </div>
     );
 };

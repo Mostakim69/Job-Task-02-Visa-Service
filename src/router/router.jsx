@@ -5,6 +5,7 @@ import MyApplicationPage from "../Pages/MyApplicationPage";
 import RootLaout from "../Layouts/RootLaout";
 import ServiceDetails from "../Pages/ServiceDetails";
 import About from "../Components/About";
+import Contact from "../Pages/Contact";
 
 export const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ export const router = createBrowserRouter([
       {
         path: "/about",
         Component: About
+      },
+      {
+        path: "/contact",
+        Component: Contact
       },
       {
         path: "/services",
