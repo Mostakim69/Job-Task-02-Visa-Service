@@ -40,19 +40,41 @@ A modern, responsive, and interactive web application for managing visa services
 ## 📂 Project Structure
 
 mostakim69-job-task-02-visa-service/
-│── public/ # Static files (services.json, images)
-│── src/
-│ ├── Components/ # Reusable UI components (Hero, Navbar, Footer, etc.)
-│ ├── Layouts/ # Root Layout
-│ ├── Pages/ # Main pages (Home, Contact, ServiceDetails, etc.)
-│ ├── router/ # React Router config
-│ ├── assets/ # Images & static assets
-│ ├── App.css # Global styles
-│ └── main.jsx # Entry point
-│── package.json # Dependencies & scripts
-│── vite.config.js # Vite configuration
-│── eslint.config.js # ESLint rules
-│── README.md # Project documentation
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package.json
+├── vite.config.js
+├── public/
+│ └── services.json
+└── src/
+├── App.css
+├── index.css
+├── main.jsx
+├── assets/
+│ └── images/
+├── components/
+│ ├── About.jsx
+│ ├── Footer.jsx
+│ ├── Hero.jsx
+│ ├── Navbar.jsx
+│ ├── Testimonials.jsx
+│ ├── VisaTypes.jsx
+│ └── WhyUS.jsx
+├── layouts/
+│ └── RootLayout.jsx
+├── pages/
+│ ├── Contact.jsx
+│ ├── Home.jsx
+│ ├── MyApplicationPage.jsx
+│ ├── ServiceDetails.jsx
+│ └── VisaServicePage.jsx
+└── router/
+└── router.jsx
+
+Copy
+Edit
+
 
 ## ✨ Features
 - Browse different visa types with detailed descriptions.
