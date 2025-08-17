@@ -42,7 +42,7 @@ const WhyUS = () => {
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            className="bg-dark-primary hover:bg-light-secondary cursor-pointer text-white px-6 py-3 rounded-lg shadow-md hover:shadow-lg"
+            className="bg-primary hover:bg-light-secondary cursor-pointer text-white px-6 py-3 rounded-lg shadow-md hover:shadow-lg"
           >
             Get Started!
           </motion.button>
