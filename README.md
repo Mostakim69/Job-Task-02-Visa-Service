@@ -39,50 +39,20 @@ A modern, responsive, and interactive web application for managing visa services
 
 ## 📂 Project Structure
 
-Repository: mostakim69/job-task-02-visa-service
-Files analyzed: 23
-
-Estimated tokens: 19.2k
-
-Directory structure:
-└── mostakim69-job-task-02-visa-service/
-    ├── README.md
-    ├── eslint.config.js
-    ├── index.html
-    ├── package.json
-    ├── vite.config.js
-    ├── public/
-    │   └── services.json
-    └── src/
-        ├── App.css
-        ├── index.css
-        ├── main.jsx
-        ├── assets/
-        │   └── images/
-        ├── Components/
-        │   ├── About.jsx
-        │   ├── Footer.jsx
-        │   ├── Hero.jsx
-        │   ├── Navbar.jsx
-        │   ├── Testimonials.jsx
-        │   ├── VisaTypes.jsx
-        │   └── WhyUS.jsx
-        ├── Layouts/
-        │   └── RootLaout.jsx
-        ├── Pages/
-        │   ├── Contact.jsx
-        │   ├── Home.jsx
-        │   ├── MyApplicationPage.jsx
-        │   ├── ServiceDetails.jsx
-        │   └── VisaServicePage.jsx
-        └── router/
-            └── router.jsx
-
-
-================================================
-FILE: README.md
-================================================
-
+mostakim69-job-task-02-visa-service/
+│── public/ # Static files (services.json, images)
+│── src/
+│ ├── Components/ # Reusable UI components (Hero, Navbar, Footer, etc.)
+│ ├── Layouts/ # Root Layout
+│ ├── Pages/ # Main pages (Home, Contact, ServiceDetails, etc.)
+│ ├── router/ # React Router config
+│ ├── assets/ # Images & static assets
+│ ├── App.css # Global styles
+│ └── main.jsx # Entry point
+│── package.json # Dependencies & scripts
+│── vite.config.js # Vite configuration
+│── eslint.config.js # ESLint rules
+│── README.md # Project documentation
 
 ## ✨ Features
 - Browse different visa types with detailed descriptions.
